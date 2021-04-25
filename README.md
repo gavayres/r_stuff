@@ -1,0 +1,3 @@
+# r_stuff
+
+This was a repository created to satisfy a request about basic coding practices in R, writing functions, sampling from distributions and documenting code. Nothing too fancy...
